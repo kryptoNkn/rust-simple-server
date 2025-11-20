@@ -1,4 +1,4 @@
-# 🚀 Minimal Actix Web Server (Rust)
+# Minimal Actix Web Server (Rust)
 
 This project is a simple web server built with **Rust** using the [Actix Web](https://actix.rs/) framework.  
 It starts a server at [`http://localhost:8080`](http://localhost:8080) and returns the string `"kn"` when you access the root endpoint (`/`).
@@ -15,7 +15,7 @@ You can use this as a starting point for building REST APIs or web applications 
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
