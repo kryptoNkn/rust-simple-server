@@ -5,7 +5,7 @@ It starts a server at [`http://localhost:8080`](http://localhost:8080) and retur
 
 ---
 
-## 📂 Repository Overview
+## Repository Overview
 This repository demonstrates:
 - Setting up and running an HTTP server with Actix Web.
 - Defining a basic route (`GET /`).
@@ -35,6 +35,6 @@ curl http://localhost:8080
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 - *Rust*
 - *Actix Web*
